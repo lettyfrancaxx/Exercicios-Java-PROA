@@ -16,7 +16,7 @@ else if (n1 < 0 && n2 < 0 ) {
 System.out.println ("Falso.");    
     }
 else {
-    System.out.println ("Os valores informados tem tipos de valores diferentes."); 
+    System.out.println ("Os números informados tem tipos de valores diferentes."); 
 }
 }
 }
